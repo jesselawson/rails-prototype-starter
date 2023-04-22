@@ -1,24 +1,17 @@
-# README
+# Rails template with basic user auth included
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a template I use to quickly prototype ideas. 
 
-Things you may want to cover:
+This rails project is a fresh install of Rails `7.0.4` 
+running on ruby `3.1.3`, with the following features 
+implemented:
+- User registration
+- User authentication
+- Forgot password handling
 
-* Ruby version
+Ready for your exciting idea. 
 
-* System dependencies
+Not battle-tested; I make significant changes to this 
+architecture before taking a prototype into closed 
+beta. 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
